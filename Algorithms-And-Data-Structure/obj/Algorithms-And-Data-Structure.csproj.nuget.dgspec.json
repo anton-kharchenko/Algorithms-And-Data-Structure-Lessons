@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj": {}
+  },
+  "projects": {
+    "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj",
+        "projectName": "Algorithms-And-Data-Structure",
+        "projectPath": "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj",
+        "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
