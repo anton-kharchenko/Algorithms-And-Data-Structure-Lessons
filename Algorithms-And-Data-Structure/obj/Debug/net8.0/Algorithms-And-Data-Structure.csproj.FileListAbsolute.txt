@@ -1,0 +1,15 @@
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\bin\Debug\net8.0\Algorithms-And-Data-Structure.exe
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\bin\Debug\net8.0\Algorithms-And-Data-Structure.deps.json
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\bin\Debug\net8.0\Algorithms-And-Data-Structure.runtimeconfig.json
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\bin\Debug\net8.0\Algorithms-And-Data-Structure.dll
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\bin\Debug\net8.0\Algorithms-And-Data-Structure.pdb
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.AssemblyInfoInputs.cache
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.AssemblyInfo.cs
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.csproj.CoreCompileInputs.cache
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.sourcelink.json
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.dll
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\refint\Algorithms-And-Data-Structure.dll
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.pdb
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\Algorithms-And-Data-Structure.genruntimeconfig.cache
+C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\obj\Debug\net8.0\ref\Algorithms-And-Data-Structure.dll
