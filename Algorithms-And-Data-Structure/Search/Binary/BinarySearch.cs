@@ -41,4 +41,31 @@ public class BinarySearch
         Console.WriteLine($"Count of operations equals: {operations}");
         return -1;
     }
+
+    public int FindInsertPlace(List<int> sortedList, int value)
+    {
+        int start = 0;
+        int end = sortedList.Count - 1;
+        int operations = 0;
+        
+        while (start < end)
+        {
+            int mid = (start + end) / 2;
+            
+            if (value > sortedList[mid])
+            {
+                start = mid + 1;
+            }
+            else
+            {
+                end = mid;
+            }
+            
+            operations += 1;
+        }
+        
+        Console.WriteLine($"Count of operations equals: {operations}");
+
+        return start;
+    }
 }

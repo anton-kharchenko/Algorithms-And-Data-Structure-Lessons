@@ -2,16 +2,13 @@
 
 public class Data
 {
-    public List<int> data;
-
-    public Data()
-    {
-        data = new List<int>();
-    }
+    private readonly List<int> data = [];
 
     public List<int> GetSortedList(int capacity)
     {
-        IsCorrectCapacityRange(capacity);
+        CheckCapacityRange(capacity);
+        
+        ClearData();
         
         for (int i = 0; i < capacity; i++)
         {
@@ -23,7 +20,9 @@ public class Data
 
     public List<int> GetRandomSortedList(int capacity)
     {
-        IsCorrectCapacityRange(capacity);
+        CheckCapacityRange(capacity);
+        
+        ClearData();
         
         var random = new Random();
         data.Add(random.Next());
@@ -36,12 +35,42 @@ public class Data
         
         return data;
     }
+    
+    public List<int> GetSortedListWithDuplicates(int capacity)
+    {
+        CheckCapacityRange(capacity);
+        
+        ClearData();
+        
+        for (int i = 0; i < capacity; i++)
+        {
+            if (i % 2 == 0 && i > 1)
+            {
+                var prevValue = data[i-1];
+                data.Add(prevValue);
+            }
+            else
+            {
+                data.Add(i);
+            }
+        }
 
-    private void IsCorrectCapacityRange(int capacity)
+        return data;
+    }
+
+    private void CheckCapacityRange(int capacity)
     {
         if (capacity <= 1)
         {
             throw new ArgumentOutOfRangeException($"{capacity} must be more than 1");
+        }
+    }
+
+    private void ClearData()
+    {
+        if (data.Count > 0)
+        {
+            data.Clear();
         }
     }
 }
