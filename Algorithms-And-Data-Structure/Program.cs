@@ -2,9 +2,9 @@
 using Algorithms_And_Data_Structure.Models;
 
 
-const int capacity = 1000000000;
+const int capacity = 64;
 Data _data = new Data();
-List<int> _list = _data.GetList(capacity);
+List<int> _list = _data.GetSortedList(capacity);
 
 Performance performance = new Performance();
-performance.CompareBinaryAndLinearSearch(_list, 999999999);
+performance.CompareBinaryAndLinearSearch(_list, 63);

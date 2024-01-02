@@ -2,7 +2,7 @@
 using Algorithms_And_Data_Structure.Search.Binary;
 using Algorithms_And_Data_Structure.Search.Linear;
 
-namespace Algorithms_And_Data_Structure;
+namespace Algorithms_And_Data_Structure.Models;
 
 public class Performance
 {
