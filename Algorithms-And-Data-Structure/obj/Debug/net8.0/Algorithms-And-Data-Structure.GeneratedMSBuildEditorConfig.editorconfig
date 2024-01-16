@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Algorithms_And_Data_Structure
-build_property.ProjectDir = C:\Sourses\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\
+build_property.ProjectDir = c:\Sources\Projects\OpenSources\Algorithms-And-Data-Structure-Lessons\Algorithms-And-Data-Structure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

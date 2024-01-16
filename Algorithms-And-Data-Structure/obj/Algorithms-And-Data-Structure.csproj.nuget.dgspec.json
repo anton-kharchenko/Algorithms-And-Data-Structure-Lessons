@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj": {}
+    "C:\\Sources\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj": {}
   },
   "projects": {
-    "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj": {
+    "C:\\Sources\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj",
+        "projectUniqueName": "C:\\Sources\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj",
         "projectName": "Algorithms-And-Data-Structure",
-        "projectPath": "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj",
+        "projectPath": "C:\\Sources\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\Algorithms-And-Data-Structure.csproj",
         "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Sourses\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\obj\\",
+        "outputPath": "C:\\Sources\\Projects\\OpenSources\\Algorithms-And-Data-Structure-Lessons\\Algorithms-And-Data-Structure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
